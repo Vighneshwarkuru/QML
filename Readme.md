@@ -39,9 +39,6 @@ This project applies principles of **Quantum Machine Learning (QML)** to the Bre
 - Training converged over 20 epochs
 - Classical preprocessing was minimal; most transformation occurred in the quantum layer
 
-![Loss & Accuracy Plot](plots/loss_accuracy_plot.png)
-![Dataset Visualization](plots/dataset_plot.png)
-
 ---
 
 ## 🧪 Quantum Encoding Methods (Explored)
