@@ -18,7 +18,7 @@ This project applies principles of **Quantum Machine Learning (QML)** to the Bre
 - Used **Angle Encoding** to transform classical features into qubit rotations
 - Built a VQC with **StronglyEntanglingLayers** and **Pauli-Z measurements**
 - Trained the model using gradient descent over 20 epochs
-- Achieved up to **78.07% accuracy** on the test set
+- Achieved up to **89.07% accuracy** on the test set
 
 ---
 
@@ -91,12 +91,6 @@ We studied several methods of encoding classical data into quantum systems:
     ```bash
     pip install -r requirements.txt
     ```
-
-3. Train the model:
-    ```bash
-    python src/train.py
-    ```
-
 ---
 
 ## 📌 Future Work
